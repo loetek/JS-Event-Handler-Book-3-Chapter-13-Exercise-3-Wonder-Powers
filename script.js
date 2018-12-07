@@ -72,8 +72,3 @@ document.querySelector("#activate-all").addEventListener("click",enableAll)
 document.querySelector("#deactivate-all").addEventListener("click", disableAll)
 
 
-
-
-
-
-// Have your developer tools open. When you click the button, the following element...
